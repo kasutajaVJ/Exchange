@@ -38,10 +38,14 @@ namespace Exchange.Controllers
 
         private async Task<double> GetChangeValue(string from, string to)
         {
+            from = from.ToUpper();
+            to = to.ToUpper();
+            var memoryResult = _cache.Get<string>(from);
 
-            if (_cache.Get<string>(from).Count() == 0)
+
+            if (memoryResult == null)
             {
-                HttpResponseMessage response = await HttpClient.GetAsync($"https://api.exchangeratesapi.io/latest?base={from}&symbols={to}");
+                HttpResponseMessage response = await HttpClient.GetAsync($"https://api.exchangeratesapi.io/latest?base={from}");
                 response.EnsureSuccessStatusCode();
                 var responseBody = await response.Content.ReadAsStringAsync();
 
