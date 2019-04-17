@@ -1,0 +1,14 @@
+C:\Users\Vanessa\source\repos\Exchange\Exchange\bin\Debug\netcoreapp2.2\Exchange.deps.json
+C:\Users\Vanessa\source\repos\Exchange\Exchange\bin\Debug\netcoreapp2.2\Exchange.runtimeconfig.json
+C:\Users\Vanessa\source\repos\Exchange\Exchange\bin\Debug\netcoreapp2.2\Exchange.runtimeconfig.dev.json
+C:\Users\Vanessa\source\repos\Exchange\Exchange\bin\Debug\netcoreapp2.2\Exchange.dll
+C:\Users\Vanessa\source\repos\Exchange\Exchange\obj\Debug\netcoreapp2.2\Exchange.csprojAssemblyReference.cache
+C:\Users\Vanessa\source\repos\Exchange\Exchange\obj\Debug\netcoreapp2.2\Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\source\repos\Exchange\Exchange\obj\Debug\netcoreapp2.2\Exchange.RazorAssemblyInfo.cache
+C:\Users\Vanessa\source\repos\Exchange\Exchange\obj\Debug\netcoreapp2.2\Exchange.RazorAssemblyInfo.cs
+C:\Users\Vanessa\source\repos\Exchange\Exchange\obj\Debug\netcoreapp2.2\Exchange.AssemblyInfoInputs.cache
+C:\Users\Vanessa\source\repos\Exchange\Exchange\obj\Debug\netcoreapp2.2\Exchange.AssemblyInfo.cs
+C:\Users\Vanessa\source\repos\Exchange\Exchange\obj\Debug\netcoreapp2.2\Exchange.RazorTargetAssemblyInfo.cache
+C:\Users\Vanessa\source\repos\Exchange\Exchange\bin\Debug\netcoreapp2.2\Exchange.pdb
+C:\Users\Vanessa\source\repos\Exchange\Exchange\obj\Debug\netcoreapp2.2\Exchange.dll
+C:\Users\Vanessa\source\repos\Exchange\Exchange\obj\Debug\netcoreapp2.2\Exchange.pdb
